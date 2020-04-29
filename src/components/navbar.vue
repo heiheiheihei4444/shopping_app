@@ -20,7 +20,7 @@
 <style scoped>
 .nav-bar{
     position: relative;
-    z-index: 9999;
+    z-index: 9997;
     display: flex;
     line-height: 44px;
     width: 100%;
